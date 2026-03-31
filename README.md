@@ -31,16 +31,22 @@ Os parâmetros verificados são:
 ## Prints da execução
 
 ### Cenário 1 — Decolagem autorizada
-[INSERIR PRINT]
+<img width="475" height="393" alt="image" src="https://github.com/user-attachments/assets/388bb88d-767f-40d1-ae2d-37b0877d2b54" />
+
 
 ### Cenário 2 — Decolagem abortada
-[INSERIR PRINT]
+
+<img width="518" height="413" alt="image" src="https://github.com/user-attachments/assets/d9b16a40-00a5-4ddd-a3fb-5879a3f77429" />
+<img width="509" height="315" alt="image" src="https://github.com/user-attachments/assets/253092b3-f539-4be3-b073-2c544616985e" />
+
+
 
 ## Estrutura do repositório
 
 - aurora_siger.ipynb — Notebook Python com o script e a execução
 - aurora_siger.py — Script Python isolado
 - README.md — Documentação do projeto
+- dados.csv — Dados de missões utilizados
 
 ## Tecnologias utilizadas
 
