@@ -26,7 +26,6 @@ Os parâmetros verificados são:
 3. Acesse a pasta do projeto
 4. Execute o script:
    python aurora_siger.py
-5. Informe os valores de telemetria quando solicitado
 
 ## Prints da execução
 
