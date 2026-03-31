@@ -46,7 +46,7 @@ Os parâmetros verificados são:
 - aurora_siger.ipynb — Notebook Python com o script e a execução
 - aurora_siger.py — Script Python isolado
 - README.md — Documentação do projeto
-- dados.csv — Dados de missões utilizados
+- dados_analise.csv e dados_missao.csv — Dados de missões utilizados
 
 ## Tecnologias utilizadas
 
